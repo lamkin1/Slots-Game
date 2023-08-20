@@ -1,7 +1,3 @@
-// function depost(amount){
-//     return 1
-// }
-
 const prompt = require('prompt-sync')();
 
 const ROWS = 3;
